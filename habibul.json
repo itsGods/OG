@@ -1,0 +1,11 @@
+{
+  "description": "Habib portfolio",
+  "repo": "https://github.com/itsgods",
+  "owner": {
+    "username": "itsgods",
+    "email": "itssolodev@gmail.com"
+  },
+  "record": {
+    "CNAME": "thehabib.netlify.app"
+  }
+}
